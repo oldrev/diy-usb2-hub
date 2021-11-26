@@ -35228,6 +35228,23 @@
             "text": "$RD",
             "width": 150000
         },
+        "8774d754-ecad-49e0-bed9-f0de54263bed": {
+            "font": "simplex",
+            "from_smash": false,
+            "layer": 20,
+            "origin": "center",
+            "placement": {
+                "angle": 0,
+                "mirror": false,
+                "shift": [
+                    4500000,
+                    2750000
+                ]
+            },
+            "size": 1200000,
+            "text": "JLCJLCJLCJLC",
+            "width": 150000
+        },
         "8ac68f31-8fe1-46f3-a94f-e06d8f1e93d8": {
             "font": "simplex",
             "from_smash": true,
