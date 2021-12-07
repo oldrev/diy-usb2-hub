@@ -1,0 +1,87 @@
+{
+    "MPN": [
+        false,
+        "1903815-1"
+    ],
+    "datasheet": [
+        false,
+        ""
+    ],
+    "description": [
+        false,
+        "Dual USB 2.0 Type-A"
+    ],
+    "entity": "0e47c3d3-aca2-4c00-8265-fa0a8c04b800",
+    "inherit_model": false,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "TE Connectivity"
+    ],
+    "model": "80c84a70-3203-4524-b908-486c5b69aa0b",
+    "package": "25768ab0-6ab3-44a1-9d3c-37265d9d367e",
+    "pad_map": {
+        "0cab1940-e6b9-4e23-b992-0c2fd56a8542": {
+            "gate": "cb5493c4-1817-493d-89fa-92e1b708d7cd",
+            "pin": "6a805b9e-cda4-4c01-ad45-ad8d96d7de48"
+        },
+        "155e3e3f-0563-44b5-b390-2ae7b8d8f903": {
+            "gate": "b44f4ab5-d992-41e7-9f0e-6480e232c726",
+            "pin": "b6e7a3ce-cb8b-4694-a9c2-7991691592a2"
+        },
+        "193e0512-6584-4863-898b-8151a327650b": {
+            "gate": "cb5493c4-1817-493d-89fa-92e1b708d7cd",
+            "pin": "393bbed9-8924-4934-ac24-2cf32d8af8c8"
+        },
+        "41e97f17-f13e-48a8-a06e-94df79864895": {
+            "gate": "cb5493c4-1817-493d-89fa-92e1b708d7cd",
+            "pin": "b6e7a3ce-cb8b-4694-a9c2-7991691592a2"
+        },
+        "4783bd64-4c20-41bc-88ba-382cc76b9f73": {
+            "gate": "cb5493c4-1817-493d-89fa-92e1b708d7cd",
+            "pin": "6a805b9e-cda4-4c01-ad45-ad8d96d7de48"
+        },
+        "511825a9-2abd-4567-b6ef-67bcb67ed35b": {
+            "gate": "b44f4ab5-d992-41e7-9f0e-6480e232c726",
+            "pin": "393bbed9-8924-4934-ac24-2cf32d8af8c8"
+        },
+        "55f6c31a-b5d3-4d73-ad9d-f2e9f4f26c51": {
+            "gate": "b44f4ab5-d992-41e7-9f0e-6480e232c726",
+            "pin": "a5726f76-0de5-4924-91f1-76564cac556c"
+        },
+        "7e00896a-568c-40c4-aa6c-ef39d3b9477a": {
+            "gate": "b44f4ab5-d992-41e7-9f0e-6480e232c726",
+            "pin": "6a805b9e-cda4-4c01-ad45-ad8d96d7de48"
+        },
+        "9ab7ea3e-0b36-4434-8f11-f019d80c570e": {
+            "gate": "b44f4ab5-d992-41e7-9f0e-6480e232c726",
+            "pin": "2e422f41-bfbc-46ad-abbe-167843a99170"
+        },
+        "eca13b39-f401-4a4e-9729-c54a783e60e9": {
+            "gate": "cb5493c4-1817-493d-89fa-92e1b708d7cd",
+            "pin": "2e422f41-bfbc-46ad-abbe-167843a99170"
+        },
+        "eeb1bb9f-e926-45c1-a82b-ef3b70f449c9": {
+            "gate": "b44f4ab5-d992-41e7-9f0e-6480e232c726",
+            "pin": "6a805b9e-cda4-4c01-ad45-ad8d96d7de48"
+        },
+        "f363426b-9d48-45ae-b12e-e3d9f1bf4421": {
+            "gate": "cb5493c4-1817-493d-89fa-92e1b708d7cd",
+            "pin": "a5726f76-0de5-4924-91f1-76564cac556c"
+        }
+    },
+    "parametric": {},
+    "tags": [
+        "connector",
+        "dual",
+        "th",
+        "type-a",
+        "usb"
+    ],
+    "type": "part",
+    "uuid": "7b330095-d670-4938-916c-39d42fa3453b",
+    "value": [
+        false,
+        ""
+    ]
+}

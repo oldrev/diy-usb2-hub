@@ -1,0 +1,104 @@
+{
+    "manufacturer": "CoreChips ShenZhen",
+    "name": "SL2.1x USB 2.0 Hub",
+    "pins": {
+        "3461e09f-f7bd-4af3-b8b5-e02ebcee3a3e": {
+            "direction": "power_output",
+            "names": [],
+            "primary_name": "VDD18",
+            "swap_group": 0
+        },
+        "3b9bae7e-4996-4c7d-b41c-f8e84d8e6461": {
+            "direction": "output",
+            "names": [],
+            "primary_name": "D+",
+            "swap_group": 0
+        },
+        "475aabb1-20f4-41c3-a9e1-e78bcc222d4c": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "D2+",
+            "swap_group": 0
+        },
+        "4b3d3564-2f05-40f0-8451-736d0d29f257": {
+            "direction": "output",
+            "names": [],
+            "primary_name": "D-",
+            "swap_group": 0
+        },
+        "53a88955-6297-40c9-ba20-77a05871f57c": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "VSS",
+            "swap_group": 0
+        },
+        "66fae59b-87f9-4dcf-819f-9b3b915e13d8": {
+            "direction": "power_output",
+            "names": [],
+            "primary_name": "VDD33",
+            "swap_group": 0
+        },
+        "67daeca6-7923-412a-8c6f-6626f09b1f6f": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "D1-",
+            "swap_group": 0
+        },
+        "8670e205-2d89-4bbf-b9af-18109e46538c": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "XIN",
+            "swap_group": 0
+        },
+        "90eec009-b056-4356-bc20-c03ec2c9dbba": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "D3+",
+            "swap_group": 0
+        },
+        "9940223e-b8ed-406c-b67d-b49a390511df": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "D2-",
+            "swap_group": 0
+        },
+        "a7f79db8-bf33-4743-87ff-fb2b02021212": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "D4-",
+            "swap_group": 0
+        },
+        "aeba6a3d-70f6-43c4-8d95-d2ed639f14f3": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "VDD5",
+            "swap_group": 0
+        },
+        "b55cef7e-5379-4485-8cca-5b311ccb4266": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "D3-",
+            "swap_group": 0
+        },
+        "bfa3de84-af1c-453c-9526-17924eff86dd": {
+            "direction": "output",
+            "names": [],
+            "primary_name": "XOUT",
+            "swap_group": 0
+        },
+        "c40ba2f0-c395-413a-925b-ee9dcdf6e67c": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "D1+",
+            "swap_group": 0
+        },
+        "e1cdbf7a-0bf3-4cdc-923c-640a2d459445": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "D4+",
+            "swap_group": 0
+        }
+    },
+    "type": "unit",
+    "uuid": "5e76e27b-7f83-489e-8ea6-30eca7db3aa8"
+}
