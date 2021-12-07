@@ -1,0 +1,49 @@
+{
+    "MPN": [
+        false,
+        "VT1V221M0810"
+    ],
+    "datasheet": [
+        false,
+        ""
+    ],
+    "description": [
+        false,
+        "220uF 35V 20%"
+    ],
+    "entity": "b0c2b8f8-aecf-4873-9458-c06eee2f7a00",
+    "inherit_model": false,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "Roqang"
+    ],
+    "model": "2ce6b13b-b017-48e7-a54a-34eec74adac3",
+    "package": "51e3c6fc-e5c0-46fb-8c8e-9e0c625020bf",
+    "pad_map": {
+        "1d03bff7-a450-496b-ba1e-50c6140aae16": {
+            "gate": "23766b63-6ffc-4831-baee-ba1635a735b3",
+            "pin": "1e7cd34f-86db-4b34-9e0b-c276756301ab"
+        },
+        "71601c65-c252-4250-b14f-6606859ad8bb": {
+            "gate": "23766b63-6ffc-4831-baee-ba1635a735b3",
+            "pin": "bb8460b5-34e6-41b0-9a9f-10eed3a3d8d6"
+        }
+    },
+    "parametric": {
+        "table": "capacitors",
+        "tolerance": "20",
+        "type": "Electrolytic",
+        "value": "0.00022",
+        "wvdc": "35"
+    },
+    "tags": [
+        "capacitor"
+    ],
+    "type": "part",
+    "uuid": "369aaf27-c788-40c5-a074-7b4758c447ac",
+    "value": [
+        false,
+        "220µ/35V"
+    ]
+}

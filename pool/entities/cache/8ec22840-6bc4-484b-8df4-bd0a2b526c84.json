@@ -1,0 +1,20 @@
+{
+    "gates": {
+        "93efaa08-9305-41bc-8f01-4a6eb61c45a0": {
+            "name": "Main",
+            "suffix": "",
+            "swap_group": 0,
+            "unit": "5e76e27b-7f83-489e-8ea6-30eca7db3aa8"
+        }
+    },
+    "manufacturer": "CoreChips ShenZhen",
+    "name": "SL2.1x USB 2.0 Hub",
+    "prefix": "U",
+    "tags": [
+        "interface",
+        "usb",
+        "usb-hub"
+    ],
+    "type": "entity",
+    "uuid": "8ec22840-6bc4-484b-8df4-bd0a2b526c84"
+}

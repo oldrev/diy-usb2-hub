@@ -1,0 +1,25 @@
+{
+    "gates": {
+        "b44f4ab5-d992-41e7-9f0e-6480e232c726": {
+            "name": "B",
+            "suffix": "B",
+            "swap_group": 0,
+            "unit": "fc12ecd4-8da8-4708-a893-8f6a478dd7dc"
+        },
+        "cb5493c4-1817-493d-89fa-92e1b708d7cd": {
+            "name": "A",
+            "suffix": "A",
+            "swap_group": 0,
+            "unit": "fc12ecd4-8da8-4708-a893-8f6a478dd7dc"
+        }
+    },
+    "manufacturer": "",
+    "name": "USB 2.0 dual with shield",
+    "prefix": "J",
+    "tags": [
+        "dual",
+        "usb"
+    ],
+    "type": "entity",
+    "uuid": "0e47c3d3-aca2-4c00-8265-fa0a8c04b800"
+}

@@ -1,0 +1,103 @@
+{
+    "MPN": [
+        false,
+        "TYPE-C-31-M-12"
+    ],
+    "datasheet": [
+        false,
+        ""
+    ],
+    "description": [
+        false,
+        "USB 2.0 Type-C Female"
+    ],
+    "entity": "b3c7f10f-2160-4b68-a38b-10bf0263c097",
+    "inherit_model": false,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "HRO"
+    ],
+    "model": "68fbf41b-66c2-4631-9421-8165d1d71381",
+    "package": "7666fdac-52fc-4ee9-82d3-7e3cd168dc26",
+    "pad_map": {
+        "04fc45d2-c497-48d6-a187-cfe03176d23f": {
+            "gate": "c8b7918e-fbf3-4d3d-9629-7888c2542a58",
+            "pin": "63d5899e-90d1-447c-9eaa-1eaf276e807c"
+        },
+        "077436aa-a949-46d3-be68-122150e2b93d": {
+            "gate": "c8b7918e-fbf3-4d3d-9629-7888c2542a58",
+            "pin": "aee26174-f9f5-43a8-92e1-3ddf20d371b0"
+        },
+        "07c32853-822f-4da5-b657-cf3c95f5ad9b": {
+            "gate": "c8b7918e-fbf3-4d3d-9629-7888c2542a58",
+            "pin": "b1c2ee2f-b8be-44c0-9561-79a5d9d6bc0b"
+        },
+        "15a33ba5-5a65-48b7-ab2b-5ed08b0f7bfe": {
+            "gate": "c8b7918e-fbf3-4d3d-9629-7888c2542a58",
+            "pin": "8adefde6-f9b7-4fed-91ee-55089829bb93"
+        },
+        "2d368a41-bae6-4269-a4f9-9e370b3d2271": {
+            "gate": "c8b7918e-fbf3-4d3d-9629-7888c2542a58",
+            "pin": "064529f5-6793-469d-8677-c79fcd871f28"
+        },
+        "312738fe-c924-48b4-a003-92b71646199f": {
+            "gate": "c8b7918e-fbf3-4d3d-9629-7888c2542a58",
+            "pin": "aee26174-f9f5-43a8-92e1-3ddf20d371b0"
+        },
+        "4f190558-e5bd-40d4-a37b-516494741528": {
+            "gate": "c8b7918e-fbf3-4d3d-9629-7888c2542a58",
+            "pin": "aee26174-f9f5-43a8-92e1-3ddf20d371b0"
+        },
+        "51d7a6fb-611b-45d9-b159-6a010b9b1ff8": {
+            "gate": "c8b7918e-fbf3-4d3d-9629-7888c2542a58",
+            "pin": "d9e315ef-20c5-40e4-98ab-e604063682b5"
+        },
+        "67b40f7c-5356-4bd5-9454-e0f74ecec845": {
+            "gate": "c8b7918e-fbf3-4d3d-9629-7888c2542a58",
+            "pin": "aee26174-f9f5-43a8-92e1-3ddf20d371b0"
+        },
+        "6878d1a4-f7bb-4e46-8ced-efdd5f73e4d5": {
+            "gate": "c8b7918e-fbf3-4d3d-9629-7888c2542a58",
+            "pin": "2717d9e3-9712-4526-8024-6efc1e8e0bc0"
+        },
+        "a1e3c987-da9a-4dd8-9144-b9618325bcaa": {
+            "gate": "c8b7918e-fbf3-4d3d-9629-7888c2542a58",
+            "pin": "7a4448f5-517d-4ec6-97f7-aefcdf13e02d"
+        },
+        "ad74127f-f823-44cc-bade-defa5c9e0edb": {
+            "gate": "c8b7918e-fbf3-4d3d-9629-7888c2542a58",
+            "pin": "f075d86c-b10a-412a-b49d-714cc3efcce7"
+        },
+        "b5a26c38-f45f-4234-a3c9-f23d4f996b88": {
+            "gate": "c8b7918e-fbf3-4d3d-9629-7888c2542a58",
+            "pin": "7a4448f5-517d-4ec6-97f7-aefcdf13e02d"
+        },
+        "c0529179-7892-4f56-9d9d-a818a1d0713d": {
+            "gate": "c8b7918e-fbf3-4d3d-9629-7888c2542a58",
+            "pin": "b1c2ee2f-b8be-44c0-9561-79a5d9d6bc0b"
+        },
+        "c3f64321-fe06-410d-8022-b6899f5259a0": {
+            "gate": "c8b7918e-fbf3-4d3d-9629-7888c2542a58",
+            "pin": "2717d9e3-9712-4526-8024-6efc1e8e0bc0"
+        },
+        "ff033116-b977-4dde-9f91-2b5468b1d8f4": {
+            "gate": "c8b7918e-fbf3-4d3d-9629-7888c2542a58",
+            "pin": "064529f5-6793-469d-8677-c79fcd871f28"
+        }
+    },
+    "parametric": {},
+    "tags": [
+        "connector",
+        "female",
+        "jlc-smt-extended",
+        "type-c",
+        "usb"
+    ],
+    "type": "part",
+    "uuid": "c4933982-b3b1-4512-8992-6d93ed3b12b7",
+    "value": [
+        false,
+        ""
+    ]
+}
