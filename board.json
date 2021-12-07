@@ -139,7 +139,7 @@
                 "layer": 30
             }
         },
-        "output_directory": "production/rev1/usb2-hub-rev2-gerber",
+        "output_directory": "C:\\lib\\horizon-eda\\haveway-horizon-pool\\3d_models\\passive\\inductor\\sunlord",
         "prefix": "usb2-hub",
         "zip_output": false
     },
